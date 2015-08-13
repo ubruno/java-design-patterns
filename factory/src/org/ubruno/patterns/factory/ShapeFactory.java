@@ -1,6 +1,8 @@
 package org.ubruno.patterns.factory;
 
-
+/**
+ * http://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+ */
 public class ShapeFactory {
 	
 	   //use getShape method to get object of type shape 
